@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Receive Public Broadcast</string>
+    <string name="description">
+		Public Static Broadcast Receivers is declared.
+		Tap the buttons below to register/unregister Public Dynamic Broadcast Receiver.
+		The receivers show received broadcast with Toast.
+	</string>
+    <string name="register_receiver">Register Dynamic Broadcast Receiver</string>
+    <string name="unregister_receiver">Unregister Dynamic Broadcast Receiver</string>
+</resources>

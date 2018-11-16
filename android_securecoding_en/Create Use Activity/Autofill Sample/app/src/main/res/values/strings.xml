@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSSEC Autofill Sample</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>

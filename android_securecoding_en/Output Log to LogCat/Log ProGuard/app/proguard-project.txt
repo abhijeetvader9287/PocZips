@@ -1,0 +1,8 @@
+# prevent from changing class name and method name etc.
+-dontobfuscate
+
+# *** POINT 4 *** When you build an application for release, you should bring the mechanism that automatically delete inappropriate logging method like Log.d() or Log.v() in your code.
+-assumenosideeffects class android.util.Log {
+    public static int d(...);
+    public static int v(...);
+}

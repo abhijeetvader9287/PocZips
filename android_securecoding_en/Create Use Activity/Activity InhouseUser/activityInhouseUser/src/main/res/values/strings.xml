@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Use In-house Activity</string>
+    <string name="description">Start in-house activity when the button is tapped.</string>
+	<string name="use_activity">Use In-house Activity</string>
+</resources>

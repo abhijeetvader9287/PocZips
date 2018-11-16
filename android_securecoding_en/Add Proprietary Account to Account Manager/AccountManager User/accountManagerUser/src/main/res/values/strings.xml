@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Use in-house account</string>
+    <string name="add_account">Add an account</string>
+    <string name="get_authtoken">Get authentication token</string>
+    
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Disable long click EditView</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_unlong_clickable">UnlongClickableActivity</string>
+    <string name="unlongclickable_description">The edittext displayed below, its android:longClickable attribute is disabled. Long click is disabled, so copy or cut strings operation are unable to execute.</string>
+    <string name="unlongclickable_hint">Input character strings here.</string>
+</resources>

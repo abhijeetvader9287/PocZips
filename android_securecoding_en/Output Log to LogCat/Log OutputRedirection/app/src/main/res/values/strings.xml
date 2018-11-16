@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Restrain the standard output logs</string>
+	<string name="description">The log information which is output with standard output/error are not leaked to logcat in release application. Please see the Logcat.</string>
+</resources>

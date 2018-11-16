@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Privacy Policy Test Application (No Information transfer)</string>
+    <string name="action_del_id">Delete ID</string>
+    <string name="start_map">Show location on map</string>
+    <string name="your_location_title">Current Location:</string>
+</resources>

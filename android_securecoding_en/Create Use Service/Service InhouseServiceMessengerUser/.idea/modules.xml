@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Service InhouseServiceMessengerUser.iml" filepath="$PROJECT_DIR$/Service InhouseServiceMessengerUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jSSECShared/jSSECShared.iml" filepath="$PROJECT_DIR$/jSSECShared/jSSECShared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceInhouseServiceMessengerUser/serviceInhouseServiceMessengerUser.iml" filepath="$PROJECT_DIR$/serviceInhouseServiceMessengerUser/serviceInhouseServiceMessengerUser.iml" />
+    </modules>
+  </component>
+</project>

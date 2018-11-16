@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fingerprint Authentication</string>
+
+    <string name="fingerprint_processing">Touch the fingerprint sensor...</string>
+    <string name="fingerprint_auth_succeeded">authentication succeeded!</string>
+    <string name="fingerprint_auth_failed">authentication failed! : try again.</string>
+    <string name="fingerprint_not_registered">no fingerprints are registered.</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="cancel">Cancel</string>
+</resources>

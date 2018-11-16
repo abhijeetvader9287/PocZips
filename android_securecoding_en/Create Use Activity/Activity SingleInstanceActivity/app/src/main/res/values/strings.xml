@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Create Single-Instance Activity</string>
+	<string name="user_description">Start single-instance activity when the button is tapped.</string>
+	<string name="use_activity">Use Single-Instance Activity</string>
+	<string name="private_description">This is singleInstance activity.</string>
+	<string name="return_result">Return Result</string>
+</resources>

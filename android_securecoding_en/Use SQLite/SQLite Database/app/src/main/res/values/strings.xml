@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+<string name="app_name">Use SQLite</string>
+    
+    <!-- Strings for UI -->
+    <!-- MainActivity -->
+    <string name="Title_MainActivity">Tap or longclick an item.</string>
+    
+    <string name="EDIT_IDNO_TITLE">Number</string>
+    <string name="EDIT_NAME_TITLE">Name</string>
+    <string name="EDIT_INFO_TITLE">Info.</string>
+    
+    <!-- InsertActivity -->
+    <string name="ACTIVITY_TITLE_NEW">Registration</string>
+
+    <!-- UpdateActivity -->
+    <string name="ACTIVITY_TITLE_EDIT">Edit registration info</string>
+    
+    <!-- DeleteActivity -->
+    <string name="ACTIVITY_TITLE_DELETE">Delete registration info</string>
+    
+    
+    <!-- SearchActivity -->
+    <string name="ACTIVITY_TITLE_SEARCH">Search registration info</string>
+    
+    <!-- Menu -->
+    <string name="SEARCH_MENUITEM">Search</string>
+    <string name="INSERT_MENUITEM">Add</string>
+    <string name="EDIT_MENUITEM">Edit</string>
+    <string name="DELETE_MENUITEM">Delete</string>    
+    
+    <!-- Messages -->
+    <string name="DATABASE_CREATE_ERROR_MESSAGE">Database Create Error.</string>
+    <string name="DATABASE_OPEN_ERROR_MESSAGE">Database Open Error.</string>
+    <string name="DELETE_CONFIRMATION_MESSAGE">Data will be deleted.\nDo you continue?</string>
+    <string name="DATABASE_CLOSE_ERROR_MESSAGE">Database close Error.</string>
+    <string name="DATABASE_NOTOPEN_MESSAGE">Database is not Error.</string>
+    <string name="SEARCHING_MESSAGE">Getting data...</string>
+    <string name="SEARCHING_ERROR_MESSAGE">Getting data error</string>
+    <string name="UPDATING_MESSAGE">Updating Database...</string>
+    <string name="UPDATING_ERROR_MESSAGE">Updating Database error</string>
+    <string name="DB_ERROR_MESSAGE">Database is not opened</string>
+    
+    <!-- Validation messages -->
+    <string name="IDNO_EMPTY_MESSAGE">IdNo is empty.</string>
+    <string name="IDNO_NOT_NUMERIC_MESSAGE">IdNo is not numeric.</string>
+    <string name="IDNO_IS_ZERO_MESSAGE">IdNo is zero.</string>
+    <string name="LENGTH_IS_OVER_LIMIT_MESSAGE">Length is over limit.</string>
+    <string name="REGULAR_EXPRESSION_ERROR_MESSAGE">regular expression error.</string>
+    
+</resources>

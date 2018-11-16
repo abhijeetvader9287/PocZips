@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Add in-house account</string>
+    <string name="label">JSSEC account</string>
+    <string name="login_activity_title">JSSEC account login</string>
+    <string name="login_activity_username">Account name</string>
+    <string name="login_activity_password">Password</string>
+    <string name="login_activity_login">Login</string>
+    
+    <string name="error_account_exists">This account has been already registered.</string>
+    <string name="error_account_not_exists">The specified account does not exist.</string>
+
+    <string name="username_default">user</string>
+    <string name="password_default">pass123</string>
+
+</resources>

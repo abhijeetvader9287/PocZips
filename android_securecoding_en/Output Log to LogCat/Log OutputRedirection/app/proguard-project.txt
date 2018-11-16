@@ -1,0 +1,13 @@
+# Prevent from changing class name and method name, etc
+-dontobfuscate
+
+# In release build, delete call from Log.d()/v() automatically.
+-assumenosideeffects class android.util.Log {
+    public static int d(...);
+    public static int v(...);
+}
+
+# In release build, delete resetStreams() automatically.
+-assumenosideeffects class org.jssec.android.log.outputredirection.OutputRedirectApplication {
+    private void resetStreams(...);
+}

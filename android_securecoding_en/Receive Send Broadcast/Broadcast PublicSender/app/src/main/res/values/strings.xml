@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Send Public Broadcast</string>
+    <string name="description">You can perform operations below to Public Broadcast Receiver.</string>
+    <string name="send_normal">Send Normal Broadcast</string>
+    <string name="send_ordered">Send Ordered Broadcast</string>
+    <string name="send_sticky">Send Sticky Broadcast</string>
+    <string name="send_stickyordered">Send Sticky Ordered Broadcast</string>
+    <string name="remove_sticky">Remove Sticky Broadcast</string>
+    <string name="logview">Broadcast result will be added below.\n</string>
+</resources>

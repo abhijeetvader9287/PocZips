@@ -1,0 +1,4 @@
+#Fri Nov 16 11:32:31 IST 2018
+base.0=/home/abhijeet/git/POCs/sweet-alert-dialog-master/sample/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Declare uses permission sample</string>
+    <string name="description">This sample applicasion is simply to declare uses &quot;android.permission.INTERNET&quot; permission. Do nothing other than it. You can see "Full network access" like a diagram below by checking application information from settings screen.</string>
+</resources>

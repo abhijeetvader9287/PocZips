@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Communicate by HTTPS</string>
+	<string name="description">Search pictures with the keywords below and display 1st picture.</string>
+	<string name="querybox_hint">Picture search keywords</string>
+	<string name="querybox_default">Android</string>
+	<string name="http_search">Search by HTTP</string>
+    <string name="https_search">Search by HTTPS</string>
+    <string name="image">Image</string>
+</resources>

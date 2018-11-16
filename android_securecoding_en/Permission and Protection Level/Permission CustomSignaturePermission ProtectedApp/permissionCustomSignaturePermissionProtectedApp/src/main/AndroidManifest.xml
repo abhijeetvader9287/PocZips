@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.jssec.android.permission.protectedapp" >
+
+    <!-- *** POINT 1 *** Define a permission with protectionLevel="signature" -->
+    <permission
+        android:name="org.jssec.android.permission.protectedapp.MY_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+
+        <!-- *** POINT 2 *** For a component, enforce the permission with its permission attribute -->
+        <activity
+            android:name=".ProtectedActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:permission="org.jssec.android.permission.protectedapp.MY_PERMISSION" >
+
+            <!-- *** POINT 3 *** If the component is an activity, you must define no intent-filter -->
+        </activity>
+    </application>
+</manifest>

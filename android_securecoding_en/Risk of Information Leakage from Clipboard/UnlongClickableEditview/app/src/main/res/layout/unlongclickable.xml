@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/unlongclickable_description" />
+
+    <!-- EditText to prohibit copy/cut EditText -->
+    <!-- *** POINT 1 *** Set false to android:longClickable in View to prohibit copy/cut. -->
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:longClickable="false"
+        android:hint="@string/unlongclickable_hint" />
+</LinearLayout>

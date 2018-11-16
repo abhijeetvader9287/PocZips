@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Use In-house Content Provider</string>
+    <string name="description">You can perform operations below to In-house Content Provider.</string>
+    <string name="query">Query</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="logview">Log will be added below.\n</string>
+</resources>

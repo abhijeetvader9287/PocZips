@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Create Temporary Content Provider</string>
+	<string name="active_description">Tap the button to send intent to \"Use Temporary Content Provider\" application and have it access to the temporary granted URI.</string>
+	<string name="active_send">Send intent with FLAG_GRANT_READ_URI_PERMISSION</string>
+	<string name="passive_description">Received a request for temporary access to the Content Provider from \"Use Temporary Content Provider\" application. Tap the \"Grant\" button to grant access temporarily.</string>
+	<string name="passive_grant">Grant</string>
+	<string name="passive_close">Close</string>
+</resources>

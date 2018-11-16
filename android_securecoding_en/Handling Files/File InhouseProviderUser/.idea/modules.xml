@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/File InhouseProviderUser.iml" filepath="$PROJECT_DIR$/File InhouseProviderUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileInhouseProviderUser/fileInhouseProviderUser.iml" filepath="$PROJECT_DIR$/fileInhouseProviderUser/fileInhouseProviderUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jSSECShared/jSSECShared.iml" filepath="$PROJECT_DIR$/jSSECShared/jSSECShared.iml" />
+    </modules>
+  </component>
+</project>

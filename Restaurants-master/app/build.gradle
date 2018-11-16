@@ -1,0 +1,121 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.tolmachevroman.restaurants"
+        minSdkVersion 19
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = ["room.schemaLocation":
+                                     "$projectDir/schemas".toString()]
+            }
+        }
+    }
+    buildTypes {
+        debug {
+//            buildConfigField 'String', 'URL', '"http://192.168.1.195:8080/"'
+            buildConfigField 'String', 'URL', '"https://my-json-server.typicode.com/tolmachevroman/demo/"'
+        }
+        release {
+            buildConfigField 'String', 'URL', '"https://my-json-server.typicode.com/tolmachevroman/demo/"'
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    kapt {
+        generateStubs = true
+    }
+    sourceSets {
+        String sharedTestDir = 'src/sharedTest/utils'
+        test {
+            java.srcDirs += "$projectDir/$sharedTestDir"
+        }
+        androidTest {
+            java.srcDirs += "$projectDir/$sharedTestDir"
+            resources.srcDirs += "src/test/resources"
+        }
+    }
+}
+buildscript {
+    ext.support_version = '26.1.0'
+    ext.play_services_version = '15.0.0'
+    ext.dagger_version = '2.13'
+    ext.arch_version = '1.0.0'
+    ext.constraint_version = '1.1.0'
+    ext.retrofit_version = '2.3.0'
+    ext.okhttp_version = '3.9.0'
+    ext.okio_version = '1.13.0'
+    ext.gson_version = '2.8.0'
+    ext.moshi_version = '2.1.0'
+    ext.picasso_version = '2.5.2'
+    ext.leakcanary_version = '1.5.4'
+
+    ext.junit_version = '4.12'
+    ext.core_testing_version = '1.0.0'
+    ext.mockito_version = '2.11.0'
+    ext.runner_version = '1.0.1'
+    ext.espresso_core_version = '3.0.1'
+}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+
+    //Support
+    implementation "com.android.support:support-v4:$support_version"
+    implementation "com.android.support:appcompat-v7:$support_version"
+    implementation "com.android.support:design:$support_version"
+    implementation "com.android.support.constraint:constraint-layout:$constraint_version"
+
+    //Google Maps
+    implementation "com.google.android.gms:play-services-maps:$play_services_version"
+
+    //Dagger2
+    implementation "com.google.dagger:dagger-android:$dagger_version"
+    kapt "com.google.dagger:dagger-compiler:$dagger_version"
+    kapt "com.google.dagger:dagger-android-processor:$dagger_version"
+
+    //Lifecycle
+    implementation "android.arch.lifecycle:extensions:$arch_version"
+    kapt "android.arch.lifecycle:compiler:$arch_version"
+
+    //Room
+    implementation "android.arch.persistence.room:runtime:$arch_version"
+    kapt "android.arch.persistence.room:compiler:$arch_version"
+
+    //Retrofit
+    implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
+    implementation "com.squareup.okhttp3:okhttp:$okhttp_version"
+    implementation "com.squareup.okhttp3:logging-interceptor:$okhttp_version"
+    implementation "com.squareup.okio:okio:$okio_version"
+    implementation "com.google.code.gson:gson:$gson_version"
+    implementation "com.squareup.retrofit2:converter-moshi:$moshi_version"
+
+    //Picasso
+    implementation "com.squareup.picasso:picasso:$picasso_version"
+
+    //Leak Canary
+    debugImplementation "com.squareup.leakcanary:leakcanary-android:$leakcanary_version"
+    releaseImplementation "com.squareup.leakcanary:leakcanary-android-no-op:$leakcanary_version"
+
+    //tests
+    testImplementation "junit:junit:$junit_version"
+    testImplementation "org.mockito:mockito-core:$mockito_version"
+    testImplementation "android.arch.core:core-testing:$core_testing_version"
+    testImplementation "com.squareup.okhttp3:mockwebserver:$okhttp_version"
+
+    androidTestImplementation "com.squareup.okhttp3:mockwebserver:$okhttp_version"
+    androidTestImplementation "android.arch.core:core-testing:$core_testing_version"
+    androidTestImplementation "org.mockito:mockito-android:$mockito_version"
+    androidTestImplementation "com.android.support.test:runner:$runner_version"
+    androidTestImplementation 'com.android.support.test:rules:1.0.1'
+    androidTestImplementation 'com.android.support.test.uiautomator:uiautomator-v18:2.1.3'
+}

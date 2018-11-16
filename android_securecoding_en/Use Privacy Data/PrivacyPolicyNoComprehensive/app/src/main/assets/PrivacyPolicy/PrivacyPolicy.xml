@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE PrivacyPolicy SYSTEM "XML2_JP.dtd" >
+<PrivacyPolicy xmlns="http://www.isohara.nwsec.sec.kddilabs.jp/xppml">
+    <DocumentAttributes>
+        <author></author>
+        <createDate>2014/04/01 17:01:01</createDate>
+        <updateDate>2014/04/01 18:25:19</updateDate>
+        <version></version>
+    </DocumentAttributes>
+    <Target>
+        <APKFile>
+            <packageName>org.jssec.android.privacypolicynocomprehensive</packageName>
+            <versionCode>1</versionCode>
+            <versionStrings>1.0</versionStrings>
+            <hashValue></hashValue>
+        </APKFile>
+    </Target>
+    <HandlingUserData>
+        <Publisher>
+            <businessOperator id="main">
+                <name>JSSEC Secure Coding WG</name>
+                <businessOperatorPolicy>http://www.example.com/pp/about/</businessOperatorPolicy>
+            </businessOperator>
+            <applicationPrivacyPolicy>http://www.example.com/pp/app-policy-privacypolicy-1.0.html</applicationPrivacyPolicy>
+        </Publisher>
+        <HandlingData present="present">
+            <acquiringInfomation id="d7">Cookies (randomly generated identifiers) or application-specific IDs</acquiringInfomation>
+            <acquiringInfomation id="d16">Data input by users</acquiringInfomation>
+            <method id="h0">automatically transmitting</method>
+            <method id="h1">manually input</method>
+            <purpose id="o0">To provide the traditional features of this application or service</purpose>
+            <information what="d16" to="main" why="o0" how="h1" level="2" ThirdPartyUsing=""/>
+            <information what="d7" to="main" why="o0" how="h0" level="2" ThirdPartyUsing="None"/>
+        </HandlingData>
+        <UserInvolvementMethod proprietary="None" type="Stop transmitting data"/>
+        <UserInvolvementMethod proprietary="None" type="Delete data"/>
+        <ProvideForThirdParty present="None"/>
+        <InformationCollectionModule present="None"/>
+        <Inquiry>
+            <Destination></Destination>
+        </Inquiry>
+        <HowToCheckTheChangingPolicy></HowToCheckTheChangingPolicy>
+    </HandlingUserData>
+</PrivacyPolicy>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.jssec.android.activity.inhouseactivity" >
+
+    <!-- *** POINT 1 *** Define an in-house signature permission -->
+    <permission
+        android:name="org.jssec.android.activity.inhouseactivity.MY_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+
+        <!-- In-house Activity -->
+        <!-- *** POINT 2 *** Do not specify taskAffinity -->
+        <!-- *** POINT 3 *** Do not specify launchMode -->
+        <!-- *** POINT 4 *** Require the in-house signature permission  -->
+        <!-- *** POINT 5 *** Do not define the intent filter and explicitly set the exported attribute to true -->
+        <activity
+            android:name="org.jssec.android.activity.inhouseactivity.InhouseActivity"
+            android:exported="true"
+            android:permission="org.jssec.android.activity.inhouseactivity.MY_PERMISSION" />
+    </application>
+</manifest>

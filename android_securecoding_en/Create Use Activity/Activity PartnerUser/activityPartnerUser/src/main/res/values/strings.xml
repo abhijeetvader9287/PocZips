@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Use Partner Activity</string>
+    <string name="description">Start partner activity when the button is tapped.</string>
+    <string name="use_activity">Use Partner Activity</string>
+</resources>

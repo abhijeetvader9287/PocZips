@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Create Private Service</string>
+
+    <string name="title_service">Operations for Private Service derived from Service</string>
+    <string name="start_service">Start PrivateStartService</string>
+    <string name="stop_service">Stop PrivateStartService</string>
+    
+    <string name="title_intentservice">Operations for Private Service derived from IntentService</string>
+    <string name="start_intentservice">Start PrivateIntentSerice</string>
+    
+</resources>

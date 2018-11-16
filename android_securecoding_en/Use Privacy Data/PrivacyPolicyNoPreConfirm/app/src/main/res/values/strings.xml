@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Privacy Policy Test Application (No specific consent)</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_show_pp">Show Privacy Policy</string>
+    <string name="action_del_id">Delete ID</string>
+    <string name="action_donot_send_id">Stop transmitting ID</string>
+    <string name="send_to_server">Transmit data to server</string>
+    <string name="sendLocation">Transmission of location data</string>
+    <string name="cofirmSendLocation">This will transmit information on your current location to an external server. Proceed? </string>
+    <string name="stopSendUserData">Stop transmitting data</string>
+    <string name="privacyPolicy">Show Privacy Policy</string>
+    <string name="agreePrivacyPolicy">Before using this application, you must first read and consent to the privacy policy available from the link below. After reviewing the content of this policy, press Consent to consent to the policy or Do not consent to reject the policy. Pressing the button labeled Consent below indicates that you have reviewed and consented to the content of this privacy policy.</string>
+    <string name="link_pp"><u>Show Privacy Policy</u></string>
+    <string name="buttonOK">Yes</string>
+    <string name="buttonNG">No</string>
+    <string name="buttonConsent">Consent</string>
+    <string name="buttonDonotConsent">Do Not Consent</string>
+    <string name="nickname_title">Nickname:</string>
+    <string name="nickname_hint">Input nickname</string>
+
+</resources>

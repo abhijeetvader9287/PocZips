@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HTTPS (Private certificates)</string>
+	<string name="description">Download pictures from the server which uses private certificate and display ones.</string>
+	<string name="urlbox_hint">Please specify URL of picture started with "https://".</string>
+	<string name="urlbox_default">https://selfsigned.jssec.org/droid_knight.png</string>
+	<string name="private_certificate_https">Private Certificate Https</string>
+    <string name="image">Image</string>
+</resources>

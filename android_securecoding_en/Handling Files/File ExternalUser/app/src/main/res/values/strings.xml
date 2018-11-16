@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="description">Create a file on the external strage from this activity.</string>
+    <string name="app_name">Edit a file(External Strage)</string>
+    <string name="description_user">Read the external file from this activity</string>
+    <string name="create_file">Create a file, then close the activity</string>
+    <string name="read_file">Read the file</string>
+    <string name="write_file">Append to the file, then start file activity</string>
+    <string name="delete_file">Delete the file</string>
+    <string name="file_view">(Empty)</string>
+    <string name="call_fileactivity">Start file activity</string>
+    <string name="app_name_file">File Activity</string>
+    <string name="app_name_user">User Activity</string>
+
+</resources>

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 16 11:32:31 IST 2018
+0.baseType=DIRECTORY
+0.base=/home/abhijeet/git/POCs/sweet-alert-dialog-master/sample/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

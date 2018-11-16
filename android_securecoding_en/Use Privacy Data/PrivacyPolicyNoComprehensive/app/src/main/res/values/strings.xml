@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Privacy Policy Test Application (No broad consent)</string>
+    <string name="action_show_pp">Show Privacy Policy</string>
+    <string name="action_del_id">Delete ID</string>
+    <string name="action_donot_send_id">Stop transmitting ID</string>
+    <string name="send_to_server">Transmit data to server</string>
+    <string name="stopSendUserData">Stop transmitting data</string>
+    <string name="nickname_title">Nickname:</string>
+    <string name="nickname_hint">Input nickname</string>
+
+</resources>

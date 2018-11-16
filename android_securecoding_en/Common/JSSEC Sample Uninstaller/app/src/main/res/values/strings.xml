@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JSSEC Sample Apps Uninstaller</string>
+	<string name="cancel">Cancel</string>
+	<string name="uninstall">Uninstall</string>
+	<string name="empty">No JSSEC Sample Apps</string>
+</resources>

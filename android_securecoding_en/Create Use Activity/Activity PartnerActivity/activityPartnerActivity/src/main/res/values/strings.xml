@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Create Partner Activity</string>
+    <string name="description">This is a partner activity.</string>
+    <string name="return_result">Return Result</string>
+</resources>

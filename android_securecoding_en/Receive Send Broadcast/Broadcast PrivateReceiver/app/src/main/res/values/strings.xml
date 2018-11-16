@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Private Broadcast Receiver</string>
+    <string name="description">
+        Private Broadcast Receiver is declared.
+		Tap the buttons below to send broadcast to the receiver.
+		The receiver shows the received broadcast with Toast.
+	</string>
+    <string name="send_normal">Send Normal Broadcast</string>
+    <string name="send_ordered">Send Ordered Broadcast</string>
+    <string name="logview">Broadcast result will be added below.\n</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Use Public Activity</string>
+	<string name="description">Start public activity when the button is tapped.</string>
+	<string name="use_activity">Use Public Activity</string>
+</resources>

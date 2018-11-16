@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">ClipboardListening</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_clipboard_listening">ClipboardListeningActivity</string>
+    <string name="start_service_button">Start service.</string>
+    <string name="stop_service_button">Stop service.</string>
+    <string name="app_description">If you press the "Start service" button, a service which monitors the clipboard and displays the copied or cut strings is launched. Service can be stoped when the "Stop service" button is pressed.</string>
+    <string name="coppied_or_cut_string_is">copied or cut strings: </string>
+
+    <!-- Error messages -->
+    <string name="service_already_running">Service has been already launched.</string>
+    <string name="failed_to_start_service">Failed to launch the service.</string>
+    <string name="service_already_stopped">Service has been already stopped.</string>
+    <string name="failed_to_stop_service">Failed to stop the service.</string>
+    <string name="invalid_caller_view_id">Caller view ID is incorrect.</string>
+    <string name="failed_to_get_clipboard_service">Failed to get ClipboardService.\nService is closed.</string>
+
+</resources>

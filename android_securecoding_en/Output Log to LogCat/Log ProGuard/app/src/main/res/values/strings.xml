@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Output Log to LogCat</string>
+	<string name="description">The output logs have some differences between debug application and release application. Please see the Logcat.</string>
+</resources>

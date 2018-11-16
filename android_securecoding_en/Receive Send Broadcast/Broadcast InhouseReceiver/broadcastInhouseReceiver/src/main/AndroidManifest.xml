@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.jssec.android.broadcast.inhousereceiver" >
+
+    <!-- *** POINT 1 *** Define an in-house signature permission to receive Broadcasts -->
+    <permission
+        android:name="org.jssec.android.broadcast.inhousereceiver.MY_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <!-- *** POINT 2 *** Declare to use the in-house signature permission to receive results. -->
+    <uses-permission
+        android:name="org.jssec.android.broadcast.inhousesender.MY_PERMISSION" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:allowBackup="false" >
+
+        <!-- *** POINT 3 *** Explicitly set the exported attribute to true. -->
+        <!-- *** POINT 4 *** Require the in-house signature permission by the Static Broadcast Receiver definition. -->
+        <receiver
+            android:name=".InhouseReceiver"
+            android:permission="org.jssec.android.broadcast.inhousereceiver.MY_PERMISSION"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="org.jssec.android.broadcast.MY_BROADCAST_INHOUSE" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".DynamicReceiverService"
+            android:exported="false" />
+
+        <activity
+            android:name=".InhouseReceiverActivity"
+            android:label="@string/app_name"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

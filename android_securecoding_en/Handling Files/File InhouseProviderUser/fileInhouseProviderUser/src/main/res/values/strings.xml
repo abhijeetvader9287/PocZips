@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Use Content Provider (in-house)</string>
+    <string name="description">Handle in-house Content Provider from this Activity</string>
+    <string name="readfile">Read File</string>
+    <string name="logview">Display logs below.\n</string>
+</resources>
