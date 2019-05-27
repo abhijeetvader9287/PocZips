@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441248454669",
+    "firebase_url": "https://silverscreener-ea8c6.firebaseio.com",
+    "project_id": "silverscreener-ea8c6",
+    "storage_bucket": "silverscreener-ea8c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441248454669:android:83cf27a660553d74",
+        "android_client_info": {
+          "package_name": "bapspatil.silverscreener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441248454669-vqgt2nd7g00uq9qdrl9bdjlamb6re302.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmuj2lyQMm7Ux8L9fR6rq8ovfNWk0MkKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441248454669-vqgt2nd7g00uq9qdrl9bdjlamb6re302.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "441248454669-norm7v2aml2jm9vm3niuq6o4kf35q5qn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bapspatil.silverscreener"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

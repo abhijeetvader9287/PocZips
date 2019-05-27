@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base"/>
+
+    <style name="DialpadNumberStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">@dimen/medium_margin</item>
+        <item name="android:paddingTop">@dimen/normal_margin</item>
+        <item name="android:textSize">@dimen/dialpad_text_size</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+</resources>

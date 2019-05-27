@@ -1,0 +1,4 @@
+#Fri Nov 16 17:47:32 IST 2018
+base.0=/home/abhijeet/git/POCs/AppStatus1/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

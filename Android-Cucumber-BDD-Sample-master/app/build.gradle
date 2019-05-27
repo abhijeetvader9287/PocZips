@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.github.kt3k.coveralls'
+
+android {
+    compileSdkVersion 26
+
+    defaultConfig {
+        applicationId "com.codemate.booklibrary"
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        debug {
+            testCoverageEnabled true
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    androidTestImplementation 'org.mockito:mockito-core:2.5.5'
+    androidTestImplementation 'com.linkedin.dexmaker:dexmaker-mockito:2.2.0'
+    androidTestImplementation ('com.android.support.test.espresso:espresso-core:2.2.1') {
+        exclude module: 'support-annotations'
+    }
+
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'info.cukes:cucumber-java:1.2.4'
+    testImplementation 'info.cukes:cucumber-junit:1.2.4'
+    testImplementation 'org.mockito:mockito-core:2.5.5'
+
+    implementation 'com.android.support:appcompat-v7:26.0.1'
+    implementation 'com.android.support:recyclerview-v7:26.0.1'
+}
+
+coveralls {
+    jacocoReportPath = "${buildDir}/reports/coverage/debug/report.xml"
+}
+
+tasks.coveralls {
+    dependsOn 'createDebugCoverageReport'
+    onlyIf { System.env.'CI' }
+}

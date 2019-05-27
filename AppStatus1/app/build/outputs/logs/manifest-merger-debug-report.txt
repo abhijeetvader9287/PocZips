@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/84e032777ea1086c9be1217f8db0bf5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b2817b24d8759649229da4a01014e864/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b3574ecff3cccc85f23724952b4a4fbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ccf7147173182f3d5b5af0b2672f3273/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/07c14d2a70c519658ef65740d704bf5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a5fdcaec424e708c57bb2e7fcc4805ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c728d5d7a5bd510771392d26c2f4550b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cc93d43c40bdc1798e7b5f4b0649d4ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6cac0356e0b00d8561ff2578fe380493/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f03c5385af4de5a0b77d1f8563d87f6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0666d0108ce40fe8718256cd4cc9a651/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/26f199c5fe17dc1d655fd6eb08746db0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c345a98d3e2d93fa10ebdab18b8d014a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ab9cb991f54b50d6900eea1333df43e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e94742cb66f3eb68acb7e3624b28bd1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4702167daea28486596af72521d1ee88/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e0c2230edc23026a1cf7c917e588285e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/03b300d11ed11d273e38359328ee18d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8d4b4399f0abc414fb6d645150e50f9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/582761aa23fc57bb9a6b1760d6d8426e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/71e107163fd054ace8c8b352c8caa804/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/91a91ec016d4792bb90b4e7b02e204a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f527b854c81743ef82214032563f5f40/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2efaad0fd0eebf44f190274bce5d92cb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ef88527baef1cb746f7f4765f7d7b915/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/22b346f57d43386a815eeb655b698802/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e94742cb66f3eb68acb7e3624b28bd1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e94742cb66f3eb68acb7e3624b28bd1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4702167daea28486596af72521d1ee88/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4702167daea28486596af72521d1ee88/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e94742cb66f3eb68acb7e3624b28bd1/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.appbackgroundstatus.MainActivity
+ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:13:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.appbackgroundstatus.SecondActvity
+ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:21:19-48
+activity#com.example.appbackgroundstatus.SettingActivity
+ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml:23:19-50
+uses-sdk
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/84e032777ea1086c9be1217f8db0bf5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/84e032777ea1086c9be1217f8db0bf5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b2817b24d8759649229da4a01014e864/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b2817b24d8759649229da4a01014e864/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b3574ecff3cccc85f23724952b4a4fbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b3574ecff3cccc85f23724952b4a4fbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ccf7147173182f3d5b5af0b2672f3273/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ccf7147173182f3d5b5af0b2672f3273/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/07c14d2a70c519658ef65740d704bf5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/07c14d2a70c519658ef65740d704bf5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a5fdcaec424e708c57bb2e7fcc4805ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a5fdcaec424e708c57bb2e7fcc4805ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c728d5d7a5bd510771392d26c2f4550b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c728d5d7a5bd510771392d26c2f4550b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cc93d43c40bdc1798e7b5f4b0649d4ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cc93d43c40bdc1798e7b5f4b0649d4ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6cac0356e0b00d8561ff2578fe380493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6cac0356e0b00d8561ff2578fe380493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f03c5385af4de5a0b77d1f8563d87f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f03c5385af4de5a0b77d1f8563d87f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0666d0108ce40fe8718256cd4cc9a651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0666d0108ce40fe8718256cd4cc9a651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/26f199c5fe17dc1d655fd6eb08746db0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/26f199c5fe17dc1d655fd6eb08746db0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c345a98d3e2d93fa10ebdab18b8d014a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c345a98d3e2d93fa10ebdab18b8d014a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ab9cb991f54b50d6900eea1333df43e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ab9cb991f54b50d6900eea1333df43e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e94742cb66f3eb68acb7e3624b28bd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e94742cb66f3eb68acb7e3624b28bd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4702167daea28486596af72521d1ee88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4702167daea28486596af72521d1ee88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e0c2230edc23026a1cf7c917e588285e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e0c2230edc23026a1cf7c917e588285e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/03b300d11ed11d273e38359328ee18d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/03b300d11ed11d273e38359328ee18d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8d4b4399f0abc414fb6d645150e50f9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8d4b4399f0abc414fb6d645150e50f9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/582761aa23fc57bb9a6b1760d6d8426e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/582761aa23fc57bb9a6b1760d6d8426e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/71e107163fd054ace8c8b352c8caa804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/71e107163fd054ace8c8b352c8caa804/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/91a91ec016d4792bb90b4e7b02e204a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/91a91ec016d4792bb90b4e7b02e204a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f527b854c81743ef82214032563f5f40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f527b854c81743ef82214032563f5f40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2efaad0fd0eebf44f190274bce5d92cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2efaad0fd0eebf44f190274bce5d92cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ef88527baef1cb746f7f4765f7d7b915/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ef88527baef1cb746f7f4765f7d7b915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/22b346f57d43386a815eeb655b698802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/22b346f57d43386a815eeb655b698802/AndroidManifest.xml:20:5-44
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/AppStatus1/app/src/main/AndroidManifest.xml

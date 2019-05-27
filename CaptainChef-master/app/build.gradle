@@ -1,0 +1,71 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "bapspatil.captainchef"
+        minSdkVersion 21
+        targetSdkVersion 27
+        versionCode 3
+        versionName "1.2"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+kotlin {
+    experimental {
+        coroutines "enable"
+    }
+}
+
+androidExtensions {
+    experimental = true
+}
+
+ext {
+    ankoVersion = '0.10.5'
+    support = '27.1.1'
+    glideVersion = '4.7.1'
+    exoplayerVersion = '2.8.2'
+    toastyVersion = '1.3.0'
+    retrofitVer = '2.4.0'
+    gsonVer = '2.8.5'
+}
+
+dependencies {
+    // Kotlin
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre8:1.2.71"
+    implementation "org.jetbrains.anko:anko:$ankoVersion"
+    implementation "org.jetbrains.anko:anko-design:$ankoVersion"
+
+    // Android Support Library
+    implementation "com.android.support:appcompat-v7:$support"
+    implementation "com.android.support:support-v4:$support"
+    implementation "com.android.support:support-v13:$support"
+    implementation "com.android.support:support-annotations:$support"
+    implementation "com.android.support:cardview-v7:$support"
+    implementation "com.android.support:design:$support"
+    implementation "com.android.support:recyclerview-v7:$support"
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+
+    // App dependencies
+    implementation "com.github.bumptech.glide:glide:$glideVersion"
+    kapt "com.github.bumptech.glide:compiler:$glideVersion"
+    implementation "com.google.android.exoplayer:exoplayer:$exoplayerVersion"
+    implementation "com.github.GrenderG:Toasty:$toastyVersion"
+    implementation "com.squareup.retrofit2:retrofit:$retrofitVer"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofitVer"
+    implementation "com.google.code.gson:gson:$gsonVer"
+}

@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/gradle.properties
+app/release/
+app/src/main/res/layout-land/
+app/google-services.json

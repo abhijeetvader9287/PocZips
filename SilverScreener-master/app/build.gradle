@@ -1,0 +1,96 @@
+apply plugin: 'com.android.application'
+apply plugin: 'realm-android'
+apply plugin: 'io.fabric' // Fabric's Crashlytics Gradle Plugin
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "bapspatil.silverscreener"
+        minSdkVersion 21
+        targetSdkVersion 27
+        versionCode 2000
+        versionName "one.three.two"
+
+    }
+    buildTypes {
+        release {
+            shrinkResources true
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            shrinkResources false
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro' 
+
+        }
+    }
+
+
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'x86', 'x86_64', 'armeabi-v7a', 'arm64-v8a'
+            universalApk false
+        }
+    }
+
+    project.ext.versionCodes = ['x86': 0, 'x86_64': 1, 'armeabi-v7a': 2, 'arm64-v8a': 3]
+
+    android.applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            output.versionCodeOverride = project.ext.versionCodes.get(output.getFilter(com.android.build.OutputFile.ABI), 0) * 1 + android.defaultConfig.versionCode
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+repositories {
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+}
+
+ext {
+    supportVer = '27.1.1'
+    constraintVer = '1.1.2'
+    glideVer = '4.7.1'
+    butterknifeVer = '8.8.1'
+    floatingsearchviewVer = '2.1.1'
+    retrofitVer = '2.4.0'
+    gsonVer = '2.8.5'
+    cookiebar2Ver = '1.0.9'
+    rvAnimVer = '2.3.0'
+    expandTextVer = '1.0.5'
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation "com.android.support.constraint:constraint-layout:$constraintVer"
+    implementation "com.android.support:appcompat-v7:$supportVer"
+    implementation "com.android.support:support-v4:$supportVer"
+    implementation "com.android.support:cardview-v7:$supportVer"
+    implementation "com.android.support:design:$supportVer"
+    implementation "com.android.support:recyclerview-v7:$supportVer"
+
+    implementation "com.github.bumptech.glide:glide:$glideVer"
+    annotationProcessor "com.github.bumptech.glide:compiler:$glideVer"
+    implementation "com.jakewharton:butterknife:$butterknifeVer"
+    annotationProcessor "com.jakewharton:butterknife-compiler:$butterknifeVer"
+    implementation "com.squareup.retrofit2:retrofit:$retrofitVer"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofitVer"
+    implementation "com.google.code.gson:gson:$gsonVer"
+    implementation "org.aviran.cookiebar2:cookiebar2:$cookiebar2Ver"
+    implementation "jp.wasabeef:recyclerview-animators:$rvAnimVer"
+    implementation "at.blogc:expandabletextview:$expandTextVer"
+    implementation "com.github.arimorty:floatingsearchview:$floatingsearchviewVer"
+
+    implementation('com.crashlytics.sdk.android:crashlytics:2.9.4@aar') { transitive = true } // Firebase Crashlytics
+    implementation "com.google.firebase:firebase-core:16.0.1" // Firebase Analytics
+    implementation "com.google.firebase:firebase-messaging:17.1.0" // Firebase Cloud Messaging
+}
+
+apply plugin: 'com.google.gms.google-services' // Google Services Gradle Plugin

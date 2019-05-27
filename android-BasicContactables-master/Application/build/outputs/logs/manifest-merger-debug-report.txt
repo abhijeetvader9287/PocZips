@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:18:1-50:12
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:18:1-50:12
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:18:1-50:12
+MERGED from [com.android.support:support-v13:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/90b84324f56abeefa13bc7ad71396585/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4e6d5f4281a3b90b75ac1a5b895f373e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/be14f2a7663f102e105f8467e6e103fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/32f55d25cb6cf7c621ecf1fe7b49517f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/792127fbe3a4730375a8a78af9e7ebab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/09f4d5ecd338ba8015fe5d89a2a4a509/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/7ecd2e117336dfb6f669f9856c29e301/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/094ce861f5103726e14b4eac88555fe5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e2d7395887111a402274c15c2c5df3e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/9ef9c59a238b45ea6e8fb4a3c7302fbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f44de95f77f5f2a9b766392fd5f102c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/adbf5a2bcf832870c5ee115c22314a3e/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:18:1-50:12
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:18:1-50:12
+	package
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:19:5-52
+	android:versionName
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:24:22-69
+permission#android
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:27:5-53
+	android:name
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:27:17-39
+application
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:29:5-49:19
+	android:label
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:33:9-44
+activity#com.example.android.basiccontactables.MainActivity
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:34:9-48:20
+	android:label
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:36:13-45
+	android:launchMode
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:35:13-78
+meta-data#android.app.searchable
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:38:13-40:54
+	android:resource
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:40:17-51
+	android:name
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:39:17-54
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:41:13-43:29
+action#android.intent.action.SEARCH
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:42:17-71
+	android:name
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:42:25-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/90b84324f56abeefa13bc7ad71396585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/90b84324f56abeefa13bc7ad71396585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4e6d5f4281a3b90b75ac1a5b895f373e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4e6d5f4281a3b90b75ac1a5b895f373e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/be14f2a7663f102e105f8467e6e103fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/be14f2a7663f102e105f8467e6e103fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/32f55d25cb6cf7c621ecf1fe7b49517f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/32f55d25cb6cf7c621ecf1fe7b49517f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/792127fbe3a4730375a8a78af9e7ebab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/792127fbe3a4730375a8a78af9e7ebab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/09f4d5ecd338ba8015fe5d89a2a4a509/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/09f4d5ecd338ba8015fe5d89a2a4a509/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/7ecd2e117336dfb6f669f9856c29e301/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/7ecd2e117336dfb6f669f9856c29e301/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/094ce861f5103726e14b4eac88555fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/094ce861f5103726e14b4eac88555fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e2d7395887111a402274c15c2c5df3e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e2d7395887111a402274c15c2c5df3e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/9ef9c59a238b45ea6e8fb4a3c7302fbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/9ef9c59a238b45ea6e8fb4a3c7302fbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f44de95f77f5f2a9b766392fd5f102c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/3f44de95f77f5f2a9b766392fd5f102c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/adbf5a2bcf832870c5ee115c22314a3e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/adbf5a2bcf832870c5ee115c22314a3e/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/android-BasicContactables-master/Application/src/main/AndroidManifest.xml

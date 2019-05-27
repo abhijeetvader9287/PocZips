@@ -1,0 +1,4 @@
+#Mon Dec 17 12:09:30 IST 2018
+base.0=/home/abhijeet/git/POCs/android-BasicContactables-master/Application/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

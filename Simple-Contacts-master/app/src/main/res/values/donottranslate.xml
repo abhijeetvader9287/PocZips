@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="im">IM</string>
+    <string name="aim">AIM</string>
+    <string name="windows_live">Windows Live</string>
+    <string name="yahoo">Yahoo</string>
+    <string name="skype">Skype</string>
+    <string name="qq">QQ</string>
+    <string name="hangouts">Hangouts</string>
+    <string name="icq">ICQ</string>
+    <string name="jabber">Jabber</string>
+    <string name="telegram">Telegram</string>
+
+    <!-- Release notes -->
+    <string name="release_34">Added new options for toggling 24 hour time format and showing only contacts with phone numbers</string>
+    <string name="release_32">Added a simple dialpad, dialer will come soon</string>
+    <string name="release_31">
+        Added an optional IM field\n
+        Added support for custom phone number/email/address types
+    </string>
+    <string name="release_29">Added an optional Nickname field</string>
+    <string name="release_27">
+        Allow customizing which tabs are visible\n
+        Added an optional call confirmation dialog
+    </string>
+    <string name="release_16">
+        Added name prefix/suffix and contact organizations\n
+        Added a settings item \"Manage shown contact fields\" for customizing visible contact details, with some fields disabled by default
+    </string>
+    <string name="release_11">Added Address and Notes fields</string>
+    <string name="release_10">Allow storing contacts in a local database, hidden from other apps</string>
+
+    <string name="groups_placeholder">%1$s (%2$s)</string>
+
+</resources>

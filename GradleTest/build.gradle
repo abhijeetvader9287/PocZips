@@ -1,0 +1,11 @@
+
+task  groovy   {}
+println("Hello")
+class JavaGreeter {
+    public void sayHello() {
+        System.out.println("Hello Java!");
+    }
+}
+
+JavaGreeter greeter = new JavaGreeter()
+greeter.sayHello()

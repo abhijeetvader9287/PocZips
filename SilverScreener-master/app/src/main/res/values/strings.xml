@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SilverScreener</string>
+    <string name="poster_iv_info">Poster Of The Movie</string>
+    <string name="popular">Popular</string>
+    <string name="highest_rated">Top Rated</string>
+    <string name="spinner">Sort By</string>
+    <string name="backdrop_iv_info">Backdrop of the movie</string>
+    <string name="no_reviews">Looks like no one bothered to write reviews for this movie! :-P</string>
+    <string name="search_title">Search</string>
+    <string name="reviews">REVIEWS</string>
+    <string name="cast">CAST</string>
+    <string name="cast_images">Cast Images</string>
+    <string name="about_me">About Me</string>
+    <string name="my_picture">This is Bapusaheb Patil</string>
+    <string name="bapusaheb_patil">Bapusaheb Patil</string>
+    <string name="about_me_detail">Hi! I am a self-taught Android developer and an UX/UI designer.\n\nI love making apps that have a good balance of minimal elegant design and excellent functionality.\n\nI also love making memes.\n\nSee more of my apps and my work here:</string>
+    <string name="voice_search">Voice Search</string>
+    <string name="TMDB_API_TOKEN">8fdf628eb5977b5ccf16d14bb805763d</string>
+
+    <string-array name="sort_criteria">
+        <item>Most Popular</item>
+        <item>Highest Rated</item>
+        <item>Favorites</item>
+    </string-array>
+</resources>
