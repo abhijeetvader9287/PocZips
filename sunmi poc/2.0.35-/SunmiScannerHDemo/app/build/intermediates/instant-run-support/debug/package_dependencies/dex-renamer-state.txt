@@ -1,0 +1,4 @@
+#Mon Nov 05 13:41:15 CST 2018
+base.0=/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/sunmiscan_0de6703257d638627d5bd17d3f5dbf110ecf66e5
+renamed.0=classes.dex
+file.0=/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/sunmiscan_0de6703257d638627d5bd17d3f5dbf110ecf66e5/classes.dex

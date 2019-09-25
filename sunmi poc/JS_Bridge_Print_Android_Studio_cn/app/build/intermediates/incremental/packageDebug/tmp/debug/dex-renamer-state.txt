@@ -1,0 +1,7 @@
+#Tue Sep 24 16:09:38 IST 2019
+base.0=/home/abhijeet/git/POCs/sunmi poc/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/abhijeet/git/POCs/sunmi poc/JS_Bridge_Print_Android_Studio_cn/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

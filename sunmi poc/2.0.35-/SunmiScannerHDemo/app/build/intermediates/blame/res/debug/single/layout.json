@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_title.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/layout/activity_title.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_choose_ppi.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/layout/activity_choose_ppi.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_start.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/simple_spinner_item.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/layout/simple_spinner_item.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_title.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/layout/activity_title.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_start.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_choose_ppi.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/layout/activity_choose_ppi.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_choose_ppi.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/layout/activity_choose_ppi.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_scan_title.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/layout/activity_scan_title.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_title.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/layout/activity_title.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_scan_title.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/layout/activity_scan_title.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/simple_spinner_item.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/layout/simple_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/simple_spinner_item.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/layout/simple_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_start.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/layout/activity_scan_title.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/layout/activity_scan_title.xml"
+    }
+]

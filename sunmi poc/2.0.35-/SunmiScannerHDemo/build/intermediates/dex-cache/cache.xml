@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a3b404fc5f83a6bab4f038ea79a2ac73a944d1">
+        <dex dex="/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d0d6573aba2d8a753ebd9f391e22cd11235d62d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/libs/sunmiscan.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="800e40dd623ceb781c54a676a13665820e493624">
+        <dex dex="/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/sunmiscan_0de6703257d638627d5bd17d3f5dbf110ecf66e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_80a71bdfa3c90809f299317e4bdb4cd5d6440e1f/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/app_icon.png",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/app_icon.png",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/app_icon.png",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/mipmap-xhdpi/app_icon.png"
+    }
+]

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sunmi Scanner</string>
+    <string name="codebar_scan">Scanning</string>
+    <string name="scan_text">Put the code into the frame and\n wait for the result.</string>
+    <string name="album">album</string>
+    <string name="more_config">More Configuration</string>
+    <string name="picture_ppi">Preview Size</string>
+    <string name="scan_ok_play_sound">Voice Prompt Scanning</string>
+    <string name="scan_ok_play_vibrate">Shake After Scanning</string>
+    <string name="identify_inverse_qr_code">Identification Invert Color Code</string>
+    <string name="identify_more_code">Identify Several Code</string>
+    <string name="ppi">Resolution</string>
+    <string name="start_scan">Open The Scanner</string>
+    <string name="scan_result">Scan Results：</string>
+    <string name="scan_type">Scan Type：%s</string>
+    <string name="scan_string">Results：%s</string>
+</resources>

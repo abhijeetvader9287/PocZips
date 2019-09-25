@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/switch_thumb.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/drawable-hdpi/switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/switch_thumb.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/drawable-hdpi/switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/switch_thumb.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/drawable-hdpi/switch_thumb.xml"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/click_ripple.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/drawable/click_ripple.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/click_ripple.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/drawable/click_ripple.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/drawable/edittext.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext_normal.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/drawable/edittext_normal.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/click_ripple.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/drawable/click_ripple.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/drawable/edittext.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext_normal.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/drawable/edittext_normal.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/circle_bg.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext_focused.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/drawable/edittext_focused.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/circle_bg.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext_normal.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/drawable/edittext_normal.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/circle_bg.xml",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/drawable/edittext.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext_focused.xml",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/drawable/edittext_focused.xml"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/drawable/edittext_focused.xml",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/drawable/edittext_focused.xml"
+    }
+]

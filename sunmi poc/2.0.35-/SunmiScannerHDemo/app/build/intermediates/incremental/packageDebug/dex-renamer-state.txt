@@ -1,0 +1,7 @@
+#Mon Nov 05 13:41:15 CST 2018
+base.0=/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_80a71bdfa3c90809f299317e4bdb4cd5d6440e1f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d0d6573aba2d8a753ebd9f391e22cd11235d62d9/classes.dex
+base.1=/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d0d6573aba2d8a753ebd9f391e22cd11235d62d9
+file.0=/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_80a71bdfa3c90809f299317e4bdb4cd5d6440e1f/classes.dex

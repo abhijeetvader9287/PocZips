@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:6:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:11:22-63
+uses-feature#android.hardware.camera
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:14:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:15:19-67
+application
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:17:5-50:19
+	android:label
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:20:9-40
+	android:theme
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.sunmi.codescanner.activity.StartActivity
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:24:19-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:28:27-74
+activity#com.sunmi.codescanner.activity.ScanActivity
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:31:9-38:20
+	android:screenOrientation
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:32:13-50
+intent-filter#android.intent.category.DEFAULT+com.sunmi.scan
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:34:13-37:29
+action#com.sunmi.scan
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:35:17-57
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:35:25-54
+category#android.intent.category.DEFAULT
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:36:27-73
+activity#com.sunmi.codescanner.activity.SettingsActivity
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:39:9-63
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:39:19-60
+activity#com.sunmi.codescanner.activity.ChoosePPIActivity
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:40:9-64
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:40:19-61
+meta-data#TA_APPKEY
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:42:9-44:44
+	android:value
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:44:13-41
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:43:13-37
+meta-data#InstallChannel
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:46:9-48:45
+	android:value
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:48:13-42
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:47:13-42
+meta-data#sunmi_sdk_version
+ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:49:9-78
+	android:value
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:49:53-75
+	android:name
+		ADDED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml:49:20-52
+uses-sdk
+INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/AndroidManifest.xml

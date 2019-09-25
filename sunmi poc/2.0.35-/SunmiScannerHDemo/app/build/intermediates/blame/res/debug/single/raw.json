@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/home/abhijeet/git/POCs/sunmi poc/6/SunmiScannerHDemo/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/darren/AndroidStudioProjects/workspaceSunmi/Test/SunmiScannerHDemo/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/darren/AndroidStudioProjects/SunmiScannerHDemo/app/src/main/res/raw/beep.ogg"
+    }
+]

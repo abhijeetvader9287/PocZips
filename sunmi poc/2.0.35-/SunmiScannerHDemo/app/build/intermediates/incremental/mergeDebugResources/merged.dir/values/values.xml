@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="finder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="rea">#ffff0000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="album">album</string>
+    <string name="app_name">Sunmi Scanner</string>
+    <string name="codebar_scan">Scanning</string>
+    <string name="identify_inverse_qr_code">Identification Invert Color Code</string>
+    <string name="identify_more_code">Identify Several Code</string>
+    <string name="more_config">More Configuration</string>
+    <string name="picture_ppi">Preview Size</string>
+    <string name="ppi">Resolution</string>
+    <string name="scan_ok_play_sound">Voice Prompt Scanning</string>
+    <string name="scan_ok_play_vibrate">Shake After Scanning</string>
+    <string name="scan_result">Scan Results：</string>
+    <string name="scan_string">Results：%s</string>
+    <string name="scan_text">Put the code into the frame and\n wait for the result.</string>
+    <string name="scan_type">Scan Type：%s</string>
+    <string name="start_scan">Open The Scanner</string>
+    <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+        <!--&lt;!&ndash;去除ActionBar&ndash;&gt;-->
+        <!--<item name="windowActionBar">false</item>-->
+        <!--<item name="windowNoTitle">true</item>-->
+    </style>
+    <style name="item_block_style">
+        <item name="android:background">#ffffff</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:paddingLeft">22dp</item>
+        <item name="android:paddingRight">22dp</item>
+    </style>
+    <style name="line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_marginLeft">22dp</item>
+        <item name="android:layout_marginRight">22dp</item>
+        <item name="android:background">#e8e8e8</item>
+    </style>
+    <style name="normal_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#444444</item>
+    </style>
+    <style name="selected_img_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:src">@drawable/selected</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="switch_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:track">@drawable/switch_track</item>
+        <item name="android:thumb">@drawable/switch_thumb</item>
+        <item name="android:textOn">""</item>
+        <item name="android:textOff">""</item>
+        <item name="android:switchMinWidth">0dip</item>
+        <!--<item name="switchTextAppearance">@style/Widget.AppCompat.Button.Borderless</item>-->
+        <!--<item name="borderlessButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>-->
+    </style>
+</resources>

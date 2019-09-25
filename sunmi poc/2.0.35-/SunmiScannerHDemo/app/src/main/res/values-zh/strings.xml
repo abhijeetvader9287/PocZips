@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">二维码扫描</string>
+    <string name="codebar_scan">条码/二维码扫描</string>
+    <string name="scan_text">将条码/二维码放入框内, 即可自动扫描</string>
+    <string name="album">相册</string>
+    <string name="more_config">更多配置</string>
+    <string name="picture_ppi">画面分辨率</string>
+    <string name="scan_ok_play_sound">扫描完成声音提示</string>
+    <string name="scan_ok_play_vibrate">扫描完成震动</string>
+    <string name="identify_inverse_qr_code">识别反色码</string>
+    <string name="identify_more_code">识别画面中多个码</string>
+    <string name="ppi">分辨率</string>
+    <string name="start_scan">开启扫描</string>
+    <string name="scan_result">本次扫描结果是：</string>
+    <string name="scan_string">结果：%s</string>
+    <string name="scan_type">扫描类型：%s</string>
+</resources>
