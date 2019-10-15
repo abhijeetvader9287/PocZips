@@ -16,7 +16,7 @@ files:
               month != other.month -> month - other.month
               else -> dayOfMonth - other.dayOfMonth
           }
-    selected: false
+    selected: true
     status: Solved
   text: |
     data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int) : Comparable<MyDate> {

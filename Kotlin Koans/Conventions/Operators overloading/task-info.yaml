@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 139
-    length: 69
+    length: 100
     placeholder_text: 'operator fun MyDate.plus(timeInterval: TimeInterval): MyDate
       = TODO()'
     initial_state:
@@ -20,9 +20,9 @@ files:
 
       operator fun MyDate.plus(timeIntervals: RepeatedTimeInterval) = addTimeIntervals(timeIntervals.timeInterval, timeIntervals.number)
     selected: false
-    status: Unchecked
-  - offset: 318
-    length: 64
+    status: Solved
+  - offset: 348
+    length: 45
     placeholder_text: TODO("Uncomment") //return today + YEAR * 2 + WEEK * 3 + DAY
       * 5
     initial_state:
@@ -30,8 +30,8 @@ files:
       offset: 318
     initialized_from_dependency: false
     possible_answer: return today + YEAR * 2 + WEEK * 3 + DAY * 5
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     import TimeInterval.*
 
@@ -90,5 +90,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

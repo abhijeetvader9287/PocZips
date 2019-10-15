@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 113
-    length: 6
+    length: 31
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -12,37 +12,37 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.all { it.city == city }
     selected: false
-    status: Unchecked
-  - offset: 238
-    length: 6
+    status: Solved
+  - offset: 263
+    length: 31
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 238
     initialized_from_dependency: false
     possible_answer: customers.any { it.city == city }
-    selected: false
-    status: Unchecked
-  - offset: 347
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 397
+    length: 33
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 347
     initialized_from_dependency: false
     possible_answer: customers.count { it.city == city }
-    selected: false
-    status: Unchecked
-  - offset: 484
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 561
+    length: 32
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 484
     initialized_from_dependency: false
     possible_answer: customers.find { it.city == city }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Return true if all customers are from the given city
     fun Shop.checkAllCustomersAreFrom(city: City): Boolean = TODO()
@@ -173,5 +173,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

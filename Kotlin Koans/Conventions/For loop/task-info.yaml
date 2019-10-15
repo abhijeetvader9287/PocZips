@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 51
+    length: 140
     placeholder_text: 'class DateRange(val start: MyDate, val end: MyDate)'
     initial_state:
       length: 51
@@ -24,8 +24,8 @@ files:
           }
           override fun hasNext(): Boolean = current <= dateRange.end
       }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     class DateRange(val start: MyDate, val end: MyDate)
 
@@ -102,5 +102,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

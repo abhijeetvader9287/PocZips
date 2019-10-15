@@ -4,16 +4,16 @@ files:
   visible: true
   placeholders:
   - offset: 99
-    length: 6
+    length: 85
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 99
     initialized_from_dependency: false
     possible_answer: orders.flatMap { it.products }.toSet()
-    selected: false
-    status: Unchecked
-  - offset: 222
+    selected: true
+    status: Solved
+  - offset: 301
     length: 6
     placeholder_text: TODO()
     initial_state:
@@ -22,7 +22,7 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.flatMap { it.getOrderedProducts() }.toSet()
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     // Return all products this customer has ordered
     fun Customer.getOrderedProducts(): Set<Product> = TODO()
@@ -140,5 +140,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

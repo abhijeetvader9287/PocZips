@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 101
-    length: 6
+  - offset: 100
+    length: 72
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -12,17 +12,17 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.map { it.city }.toSet()
     selected: false
-    status: Unchecked
-  - offset: 226
-    length: 6
+    status: Solved
+  - offset: 289
+    length: 0
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 226
     initialized_from_dependency: false
     possible_answer: customers.filter { it.city == city }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Return the set of cities the customers are from
     fun Shop.getCitiesCustomersAreFrom(): Set<City> = TODO()
@@ -140,5 +140,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
