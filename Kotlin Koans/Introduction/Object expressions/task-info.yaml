@@ -1,0 +1,42 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 120
+    length: 129
+    placeholder_text: object {}
+    initial_state:
+      length: 9
+      offset: 120
+    initialized_from_dependency: false
+    possible_answer: |-
+      object : Comparator<Int> {
+          override fun compare(x: Int, y: Int) = y - x
+      }
+    selected: true
+    status: Solved
+  text: |
+    import java.util.*
+
+    fun getList(): List<Int> {
+        val arrayList = arrayListOf(1, 5, 2)
+        Collections.sort(arrayList, object {})
+        return arrayList
+    }
+  learner_created: false
+- name: test/tests.kt
+  visible: false
+  text: |
+    import org.junit.Test
+    import org.junit.Assert
+    import koans.util.toMessageInEquals
+
+    class TestObjectExpressions {
+        @Test fun testSort() {
+            Assert.assertEquals("getList".toMessageInEquals(), listOf(5, 2, 1), getList())
+        }
+    }
+  learner_created: false
+status: Solved
+record: -1

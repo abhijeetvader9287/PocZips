@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 58
+    length: 19
+    placeholder_text: //TODO("return the list sorted in descending order")
+    initial_state:
+      length: 52
+      offset: 58
+    initialized_from_dependency: false
+    possible_answer: .sortedDescending()
+    selected: true
+    status: Solved
+  text: |
+    fun getList(): List<Int> {
+        return arrayListOf(1, 5, 2)//TODO("return the list sorted in descending order")
+    }
+  learner_created: false
+- name: test/tests.kt
+  visible: false
+  text: |-
+    import org.junit.Test
+    import org.junit.Assert
+
+    class TestExtensionsOnCollections {
+        @Test fun testSort() {
+            Assert.assertEquals(listOf(5, 2, 1), getList())
+        }
+    }
+  learner_created: false
+status: Solved
+record: -1

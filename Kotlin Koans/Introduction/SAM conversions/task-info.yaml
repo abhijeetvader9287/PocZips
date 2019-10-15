@@ -1,0 +1,39 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 130
+    length: 3
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 130
+    initialized_from_dependency: false
+    possible_answer: y - x
+    selected: true
+    status: Solved
+  text: |
+    import java.util.*
+
+    fun getList(): List<Int> {
+        val arrayList = arrayListOf(1, 5, 2)
+        Collections.sort(arrayList, { x, y -> TODO() })
+        return arrayList
+    }
+  learner_created: false
+- name: test/tests.kt
+  visible: false
+  text: |
+    import org.junit.Test
+    import org.junit.Assert
+    import koans.util.toMessageInEquals
+
+    class TestSamConversions {
+        @Test fun testSort() {
+            Assert.assertEquals("getList".toMessageInEquals(), listOf(5, 2, 1), getList())
+        }
+    }
+  learner_created: false
+status: Solved
+record: -1

@@ -1,0 +1,35 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 68
+    length: 41
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 68
+    initialized_from_dependency: false
+    possible_answer: prefix = "[", postfix = "]"
+    selected: true
+    status: Solved
+  text: |
+    fun joinOptions(options: Collection<String>) = options.joinToString(TODO())
+  learner_created: false
+- name: test/tests.kt
+  visible: false
+  text: |-
+    import org.junit.Test
+    import org.junit.Assert
+    import koans.util.toMessageInEquals
+
+    class TestNamedArguments() {
+
+        @Test fun testJoinToString() {
+            Assert.assertEquals("joinOptions".toMessageInEquals(), "[yes, no, may be]", joinOptions(listOf("yes", "no", "may be")))
+        }
+
+    }
+  learner_created: false
+status: Solved
+record: -1

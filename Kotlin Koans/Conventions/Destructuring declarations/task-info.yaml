@@ -1,0 +1,41 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 0
+    initialized_from_dependency: false
+    possible_answer: 'data '
+    selected: false
+    status: Unchecked
+  text: |
+    /* TODO */class MyDate(val year: Int, val month: Int, val dayOfMonth: Int)
+
+    fun isLeapDay(date: MyDate): Boolean {
+
+        val (year, month, dayOfMonth) = date
+
+        // 29 February of a leap year
+        return year % 4 == 0 && month == 2 && dayOfMonth == 29
+    }
+  learner_created: false
+- name: test/tests.kt
+  visible: false
+  text: |-
+    import org.junit.Assert
+    import org.junit.Test
+
+    class TestMultiAssignment {
+        @Test fun testIsLeapDay() {
+            Assert.assertTrue("The test failed", isLeapDay(MyDate(2016, 2, 29)))
+            Assert.assertFalse("The test failed", isLeapDay(MyDate(2015, 2, 29)))
+        }
+    }
+  learner_created: false
+status: Unchecked
+record: -1
