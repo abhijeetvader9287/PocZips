@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Assignments/Test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Assignments/Test1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sweet-alert-dialog-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ud843-QuakeReport" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ud843_Soonami" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="51" />
+    <option name="y" value="24" />
+    <option name="width" value="1309" />
+    <option name="height" value="720" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HINTS_IN_TASK_DESCRIPTION" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignments/KisanHub" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
