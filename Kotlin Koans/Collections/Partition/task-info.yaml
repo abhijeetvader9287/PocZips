@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 147
-    length: 6
+    length: 141
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -15,8 +15,8 @@ files:
           val (delivered, undelivered) = it.orders.partition { it.isDelivered }
           undelivered.size > delivered.size
       }.toSet()
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Return customers who have more undelivered orders than delivered
     fun Shop.getCustomersWithMoreUndeliveredOrdersThanDelivered(): Set<Customer> = TODO()
@@ -126,5 +126,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

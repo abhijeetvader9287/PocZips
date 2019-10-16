@@ -12,7 +12,7 @@ files:
     initialized_from_dependency: false
     possible_answer: y - x
     selected: true
-    status: Solved
+    status: Unchecked
   text: |
     import java.util.*
 

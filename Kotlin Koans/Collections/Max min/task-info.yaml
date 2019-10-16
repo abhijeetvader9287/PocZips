@@ -3,26 +3,26 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 135
-    length: 6
+  - offset: 134
+    length: 37
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 135
     initialized_from_dependency: false
     possible_answer: customers.maxBy { it.orders.size }
-    selected: false
-    status: Unchecked
-  - offset: 261
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 290
+    length: 49
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 261
     initialized_from_dependency: false
     possible_answer: orders.flatMap { it.products }.maxBy { it.price }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Return a customer whose order count is the highest among all customers
     fun Shop.getCustomerWithMaximumNumberOfOrders(): Customer? = TODO()
@@ -140,5 +140,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

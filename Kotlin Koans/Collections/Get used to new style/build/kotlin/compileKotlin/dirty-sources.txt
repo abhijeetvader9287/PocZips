@@ -1,0 +1,3 @@
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Get used to new style/src/Shop.kt
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Get used to new style/src/Task.kt
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Get used to new style/src/TestShop.kt

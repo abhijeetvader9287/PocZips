@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 120
-    length: 129
+  - offset: 145
+    length: 127
     placeholder_text: object {}
     initial_state:
       length: 9
@@ -15,7 +15,7 @@ files:
           override fun compare(x: Int, y: Int) = y - x
       }
     selected: true
-    status: Solved
+    status: Unchecked
   text: |
     import java.util.*
 

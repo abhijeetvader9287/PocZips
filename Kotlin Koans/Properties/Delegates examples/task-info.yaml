@@ -3,16 +3,16 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 75
-    length: 6
+  - offset: 74
+    length: 18
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 75
     initialized_from_dependency: false
     possible_answer: lazy(initializer)
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |+
     class LazyProperty(val initializer: () -> Int) {
         val lazyValue: Int by TODO()
@@ -45,5 +45,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

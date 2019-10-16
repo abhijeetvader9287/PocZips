@@ -15,7 +15,7 @@ files:
           operator fun contains(item: MyDate): Boolean = start <= item && item <= endInclusive
       }
     selected: true
-    status: Solved
+    status: Unchecked
   text: |
     class DateRange(val start: MyDate, val endInclusive: MyDate)/* TODO */
 

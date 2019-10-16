@@ -16,27 +16,101 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/All Any and other predicates/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Filter map/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Filter map/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Builders how it works/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Builders how it works/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Builders how it works/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Builders how it works/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Function literals with receiver/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Html builders/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Html builders/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Html builders/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Html builders/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/String and map builders/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/String and map builders/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/The function apply/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/The function apply/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collections/Filter map/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Filter map/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collections/FlatMap/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/FlatMap/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Get used to new style/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Get used to new style/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/GroupBy/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/GroupBy/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collections/Introduction/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Introduction/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/out/production/classes/MyDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/out/production/classes/MyDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/out/production/classes/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/out/production/classes/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Max min/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Max min/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Max min/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Max min/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Partition/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sort/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sort/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sort/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sort/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sum/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sum/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Conventions/Comparison/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Destructuring declarations/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Destructuring declarations/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Destructuring declarations/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Destructuring declarations/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Conventions/For loop/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/For loop/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/In range/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/In range/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Conventions/Invoke/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Invoke/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Conventions/Operators overloading/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Operators overloading/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Range to/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Range to/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Extension functions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Extension functions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Named arguments/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Named arguments/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Object expressions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Object expressions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/SAM conversions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/SAM conversions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Delegates examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates examples/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Delegates how it works/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates how it works/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Lazy property/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Lazy property/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Properties/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Properties/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ud843-QuakeReport" beforeDir="false" afterPath="$PROJECT_DIR$/../ud843-QuakeReport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ud843_DidYouFeelIt" beforeDir="false" afterPath="$PROJECT_DIR$/../ud843_DidYouFeelIt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ud843_Soonami" beforeDir="false" afterPath="$PROJECT_DIR$/../ud843_Soonami" afterDir="false" />
@@ -199,12 +273,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Builders/Builders how it works/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="90">
-                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                <MainEditorState relative-caret-position="126">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -241,10 +315,27 @@
         <option value="$PROJECT_DIR$/Collections/Filter map/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Max min/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Sort/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Sum/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Partition/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Fold/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Properties/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Builders/Html builders/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Builders/Builders how it works/src/Task.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="51" />
     <option name="y" value="24" />
     <option name="width" value="1309" />
@@ -256,6 +347,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
           <expand>
@@ -272,7 +364,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Course">
         <subPane>
           <expand>
@@ -283,36 +375,30 @@
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Collections" type="d53b8fed:LessonNode" />
+              <item name="Builders" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Collections" type="d53b8fed:LessonNode" />
+              <item name="Builders" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Collections" type="d53b8fed:LessonNode" />
+              <item name="Builders" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Generics" type="d53b8fed:LessonNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Generics" type="d53b8fed:LessonNode" />
+              <item name="Builders" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,35 +463,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_Conventions-Operators_overloading - 2019.10.15 at 17h 49m 03s.xml">
-      <configuration name="All in Conventions-Operators_overloading" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Properties-Delegates_examples - 2019.10.16 at 12h 20m 53s.xml">
+      <configuration name="All in Properties-Delegates_examples" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Conventions-Destructuring_declarations - 2019.10.15 at 17h 50m 51s.xml">
-      <configuration name="All in Conventions-Destructuring_declarations" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Properties-Delegates_how_it_works - 2019.10.16 at 12h 26m 19s.xml">
+      <configuration name="All in Properties-Delegates_how_it_works" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Conventions-Destructuring_declarations - 2019.10.15 at 17h 51m 33s.xml">
-      <configuration name="All in Conventions-Destructuring_declarations" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Properties-Delegates_how_it_works - 2019.10.16 at 12h 41m 00s.xml">
+      <configuration name="All in Properties-Delegates_how_it_works" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Conventions-Invoke - 2019.10.15 at 18h 07m 19s.xml">
-      <configuration name="All in Conventions-Invoke" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Builders-Function_literals_with_receiver - 2019.10.16 at 12h 41m 56s.xml">
+      <configuration name="All in Builders-Function_literals_with_receiver" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Collections-Introduction - 2019.10.15 at 18h 12m 19s.xml">
-      <configuration name="All in Collections-Introduction" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Builders-String_and_map_builders - 2019.10.16 at 12h 43m 44s.xml">
+      <configuration name="All in Builders-String_and_map_builders" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Collections-Introduction - 2019.10.15 at 18h 14m 27s.xml">
-      <configuration name="All in Collections-Introduction" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Builders-The_function_apply - 2019.10.16 at 12h 53m 28s.xml">
+      <configuration name="All in Builders-The_function_apply" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Collections-Filter_map - 2019.10.15 at 18h 17m 43s.xml">
-      <configuration name="All in Collections-Filter_map" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Builders-Html_builders - 2019.10.16 at 12h 54m 54s.xml">
+      <configuration name="All in Builders-Html_builders" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Collections-All_Any_and_other_predicates - 2019.10.15 at 18h 21m 05s.xml">
-      <configuration name="All in Collections-All_Any_and_other_predicates" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Builders-Html_builders - 2019.10.16 at 12h 56m 07s.xml">
+      <configuration name="All in Builders-Html_builders" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Collections-FlatMap - 2019.10.15 at 18h 24m 12s.xml">
-      <configuration name="All in Collections-FlatMap" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Builders-Builders_how_it_works - 2019.10.16 at 12h 56m 41s.xml">
+      <configuration name="All in Builders-Builders_how_it_works" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="All_in_Collections-FlatMap - 2019.10.15 at 18h 24m 43s.xml">
-      <configuration name="All in Collections-FlatMap" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_Builders-Builders_how_it_works - 2019.10.16 at 13h 01m 43s.xml">
+      <configuration name="All in Builders-Builders_how_it_works" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="1">
@@ -418,27 +504,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24488668" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12161415" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49198452" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4941957" weight="0.3291536" />
-      <window_info anchor="bottom" id="TODO" order="1" sideWeight="0.49640685" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4936429" weight="0.3291536" />
+      <window_info anchor="bottom" id="TODO" order="1" sideWeight="0.49585405" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.4997236" weight="0.3291536" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="3" sideWeight="0.49695966" weight="0.3291536" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4941957" weight="0.3291536" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5030404" side_tool="true" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="3" sideWeight="0.4859038" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4936429" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5196241" side_tool="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49640685" weight="0.3291536" />
-      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.49751243" weight="0.3291536" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49530128" weight="0.3291536" />
+      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.49474847" weight="0.3291536" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4803759" weight="0.3291536" />
       <window_info active="true" anchor="right" id="Task" order="0" visible="true" weight="0.35986733" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -473,6 +559,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -487,108 +587,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Introduction/Hello, world!/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Java to Kotlin conversion/src/JavaCode.java">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState>
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Java to Kotlin conversion/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState />
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Named arguments/test/tests.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="180">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#81#0" expanded="true" />
-              </folding>
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState>
-              <caret column="100" selection-start-column="100" selection-end-column="100" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="162">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState>
-              <caret column="81" selection-start-column="81" selection-end-column="81" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Strings/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="36">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Data classes/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="90">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
@@ -759,17 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generics/Generic functions/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
@@ -867,12 +854,275 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generics/Generic functions/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-486" />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
             <MainEditorState relative-caret-position="90">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Max min/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="292">
+              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Max min/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="18">
+              <caret line="1" column="95" selection-start-line="1" selection-start-column="95" selection-end-line="1" selection-end-column="95" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Sort/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="18">
+              <caret line="1" column="99" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Sort/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Sum/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="36">
+              <caret line="2" column="97" selection-start-line="2" selection-start-column="97" selection-end-line="2" selection-end-column="97" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-270" />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="18">
+              <caret line="1" column="88" selection-start-line="1" selection-start-column="88" selection-end-line="1" selection-end-column="88" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="18">
+              <caret line="1" column="91" selection-start-line="1" selection-start-column="91" selection-end-line="1" selection-end-column="91" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Fold/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="36">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="54">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="144">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Properties/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Lazy property/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Delegates how it works/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="342">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="36">
+              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/String and map builders/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="270">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/The function apply/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret column="42" selection-start-column="42" selection-end-column="42" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/Html builders/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="108">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/Builders how it works/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </MainEditorState>
           </EduEditorState>
         </state>

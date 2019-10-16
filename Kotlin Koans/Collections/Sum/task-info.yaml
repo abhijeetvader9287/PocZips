@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 185
-    length: 6
+    length: 55
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -12,7 +12,7 @@ files:
     initialized_from_dependency: false
     possible_answer: orders.flatMap { it.products }.sumByDouble { it.price }
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     // Return the sum of prices of all products that a customer has ordered.
     // Note: the customer may order the same product for several times.
@@ -122,5 +122,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

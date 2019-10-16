@@ -1,0 +1,3 @@
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Sum/src/Shop.kt
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Sum/src/Task.kt
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Sum/src/TestShop.kt

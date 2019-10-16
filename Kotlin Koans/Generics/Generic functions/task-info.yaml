@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 20
-    length: 26
+    length: 312
     placeholder_text: fun partitionTo() = TODO()
     initial_state:
       length: 26
@@ -22,7 +22,7 @@ files:
           return Pair(first, second)
       }
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     import java.util.*
 
@@ -70,5 +70,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

@@ -12,7 +12,7 @@ files:
     initialized_from_dependency: false
     possible_answer: orders.flatMap { it.products }.toSet()
     selected: true
-    status: Solved
+    status: Unchecked
   - offset: 301
     length: 6
     placeholder_text: TODO()
@@ -22,7 +22,7 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.flatMap { it.getOrderedProducts() }.toSet()
     selected: false
-    status: Solved
+    status: Unchecked
   text: |
     // Return all products this customer has ordered
     fun Customer.getOrderedProducts(): Set<Product> = TODO()

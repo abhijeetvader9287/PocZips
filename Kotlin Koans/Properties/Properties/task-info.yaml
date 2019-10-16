@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 95
-    length: 3
+  - offset: 96
+    length: 68
     placeholder_text: set
     initial_state:
       length: 3
@@ -15,8 +15,8 @@ files:
                   field = v
                   counter++
               }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     class PropertyExample() {
         var counter = 0
@@ -44,5 +44,5 @@ files:
 
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

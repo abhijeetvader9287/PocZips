@@ -1,0 +1,3 @@
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Max min/src/Shop.kt
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Max min/src/Task.kt
+/home/abhijeet/git/POCs/Kotlin Koans/Collections/Max min/src/TestShop.kt

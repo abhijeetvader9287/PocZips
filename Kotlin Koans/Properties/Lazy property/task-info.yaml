@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 53
+  - offset: 177
     length: 10
     placeholder_text: /* TODO */
     initial_state:
@@ -11,10 +11,10 @@ files:
       offset: 53
     initialized_from_dependency: false
     possible_answer: 'var value: Int? = null'
-    selected: false
-    status: Unchecked
-  - offset: 110
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 221
+    length: 0
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -26,7 +26,7 @@ files:
                   }
                   return value!!
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     class LazyProperty(val initializer: () -> Int) {
         /* TODO */
@@ -62,5 +62,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
