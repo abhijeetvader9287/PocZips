@@ -28,7 +28,7 @@ files:
           return sb.toString()
       }
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     fun toJSON(collection: Collection<Int>): String = TODO()
   learner_created: false

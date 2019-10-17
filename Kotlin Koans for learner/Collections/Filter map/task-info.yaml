@@ -12,7 +12,7 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.map { it.city }.toSet()
     selected: false
-    status: Unchecked
+    status: Solved
   - offset: 289
     length: 0
     placeholder_text: TODO()
@@ -22,7 +22,7 @@ files:
     initialized_from_dependency: false
     possible_answer: customers.filter { it.city == city }
     selected: true
-    status: Unchecked
+    status: Solved
   text: |
     // Return the set of cities the customers are from
     fun Shop.getCitiesCustomersAreFrom(): Set<City> = TODO()

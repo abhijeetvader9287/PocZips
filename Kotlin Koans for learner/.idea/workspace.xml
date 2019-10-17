@@ -11,8 +11,6 @@
       <change beforePath="$PROJECT_DIR$/../Assignments/kisanhubassignment" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignments/kisanhubassignment" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ImportCsv/ReadCsvExample_Android-master" beforeDir="false" afterPath="$PROJECT_DIR$/../ImportCsv/ReadCsvExample_Android-master" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/course-info.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ud843-QuakeReport" beforeDir="false" afterPath="$PROJECT_DIR$/../ud843-QuakeReport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ud843_DidYouFeelIt" beforeDir="false" afterPath="$PROJECT_DIR$/../ud843_DidYouFeelIt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ud843_Soonami" beforeDir="false" afterPath="$PROJECT_DIR$/../ud843_Soonami" afterDir="false" />
@@ -179,8 +177,8 @@
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="486">
-                  <caret line="27" selection-start-line="27" selection-end-line="27" />
+                <MainEditorState relative-caret-position="342">
+                  <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -250,6 +248,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
@@ -267,34 +266,27 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Course">
         <subPane>
           <expand>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+              <item name="Kotlin Koans for learner" type="ed842865:CourseNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Builders" type="d53b8fed:LessonNode" />
+              <item name="Kotlin Koans for learner" type="ed842865:CourseNode" />
+              <item name="Collections" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Builders" type="d53b8fed:LessonNode" />
-              <item name="src" type="4928525d:TaskNode" />
+              <item name="Kotlin Koans for learner" type="ed842865:CourseNode" />
+              <item name="Properties" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Generics" type="d53b8fed:LessonNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
-              <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Generics" type="d53b8fed:LessonNode" />
+              <item name="Kotlin Koans for learner" type="ed842865:CourseNode" />
+              <item name="Properties" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
           </expand>
@@ -365,9 +357,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_Properties-Delegates_how_it_works - 2019.10.16 at 12h 26m 19s.xml">
-      <configuration name="All in Properties-Delegates_how_it_works" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="All_in_Properties-Delegates_how_it_works - 2019.10.16 at 12h 41m 00s.xml">
       <configuration name="All in Properties-Delegates_how_it_works" configurationId="AndroidJUnit" />
     </history-entry>
@@ -395,6 +384,9 @@
     <history-entry file="All_in_Generics-Generic_functions - 2019.10.16 at 13h 10m 03s.xml">
       <configuration name="All in Generics-Generic_functions" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="All_in_Generics-Generic_functions - 2019.10.16 at 19h 23m 10s.xml">
+      <configuration name="All in Generics-Generic_functions" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -409,7 +401,7 @@
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12161415" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.122719735" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -424,10 +416,10 @@
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5196241" side_tool="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49530128" weight="0.3291536" />
-      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.49474847" weight="0.3291536" />
+      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.49474847" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4803759" weight="0.3291536" />
-      <window_info anchor="right" id="Task" order="0" visible="true" weight="0.35986733" />
+      <window_info active="true" anchor="right" id="Task" order="0" visible="true" weight="0.35986733" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -1023,8 +1015,8 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="486">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <MainEditorState relative-caret-position="342">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </MainEditorState>
           </EduEditorState>
         </state>

@@ -12,7 +12,7 @@ files:
     initialized_from_dependency: false
     possible_answer: RationalNumber(this, 1)
     selected: false
-    status: Unchecked
+    status: Solved
   - offset: 94
     length: 28
     placeholder_text: TODO()
@@ -22,7 +22,7 @@ files:
     initialized_from_dependency: false
     possible_answer: RationalNumber(first, second)
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     fun Int.r(): RationalNumber = TODO()
     fun Pair<Int, Int>.r(): RationalNumber = TODO()

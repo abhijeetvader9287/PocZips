@@ -17,7 +17,7 @@ files:
               else -> dayOfMonth - other.dayOfMonth
           }
     selected: true
-    status: Unchecked
+    status: Solved
   text: |
     data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int) : Comparable<MyDate> {
         /* TODO */

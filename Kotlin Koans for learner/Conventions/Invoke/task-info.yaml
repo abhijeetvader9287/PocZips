@@ -14,7 +14,7 @@ files:
       numberOfInvocations++
               return this
     selected: true
-    status: Unchecked
+    status: Solved
   text: |
     class Invokable {
         var numberOfInvocations: Int = 0

@@ -15,7 +15,7 @@ files:
           override fun compare(x: Int, y: Int) = y - x
       }
     selected: true
-    status: Unchecked
+    status: Solved
   text: |
     import java.util.*
 

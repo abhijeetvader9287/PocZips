@@ -12,7 +12,7 @@ files:
     initialized_from_dependency: false
     possible_answer: DateRange(this, other)
     selected: true
-    status: Unchecked
+    status: Solved
   text: |
     operator fun MyDate.rangeTo(other: MyDate) = TODO()
 
