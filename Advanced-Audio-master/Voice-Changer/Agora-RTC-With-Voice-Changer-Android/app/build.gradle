@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+repositories {
+    jcenter()
+}
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "io.agora.voice.changer"
+        minSdkVersion 16 // ICE_CREAM_SANDWICH
+        targetSdkVersion 28
+        versionCode 19
+        versionName "x.y.z"
+
+        jackOptions {
+            enabled true
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementaion fileTree(include: '*.jar', dir: 'libs')
+    implementaion 'com.android.support:appcompat-v7:25.3.0'
+    implementaion 'com.android.support:support-v4:25.3.0'
+    implementaion 'com.android.support:design:25.3.0'
+    implementaion 'org.slf4j:slf4j-api:1.7.21'
+    implementaion 'com.github.tony19:logback-android-core:1.1.1-4'
+    implementaion('com.github.tony19:logback-android-classic:1.1.1-4') {
+        // workaround issue #73
+        exclude group: 'com.google.android', module: 'android'
+    }
+    androidTestImplementaion 'com.jayway.android.robotium:robotium-solo:5.6.3'
+}

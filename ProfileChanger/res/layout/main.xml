@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+   <TextView android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:id="@+id/textview"/>
+    
+<ToggleButton android:id="@+id/togglebutton"
+	android:layout_width="150px"
+	android:layout_height="100px"
+	android:textOn="Switch to LOUD"
+	android:textOff="Switch to SILENT" />
+
+</LinearLayout>

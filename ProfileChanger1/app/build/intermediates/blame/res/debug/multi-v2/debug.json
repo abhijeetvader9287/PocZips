@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abhijeet/git/New POCs/ProfileChanger1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/abhijeet/git/New POCs/ProfileChanger1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "131,59",
+                        "endColumns": "51,70",
+                        "endOffsets": "178,125"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,70",
+                        "endOffsets": "102,173"
+                    }
+                }
+            ]
+        }
+    ]
+}
