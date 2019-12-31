@@ -18,6 +18,7 @@
       <change beforePath="$PROJECT_DIR$/../../ImportCsv/ReadCsvExample_Android-master" beforeDir="false" afterPath="$PROJECT_DIR$/../../ImportCsv/ReadCsvExample_Android-master" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../expense_planner" beforeDir="false" afterPath="$PROJECT_DIR$/../../expense_planner" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../flutter_app/flutter_app" beforeDir="false" afterPath="$PROJECT_DIR$/../../flutter_app/flutter_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ud843-QuakeReport" beforeDir="false" afterPath="$PROJECT_DIR$/../../ud843-QuakeReport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ud843_DidYouFeelIt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ud843_DidYouFeelIt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ud843_Soonami" beforeDir="false" afterPath="$PROJECT_DIR$/../../ud843_Soonami" afterDir="false" />
@@ -80,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state relative-caret-position="308">
+              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
               <folding>
                 <element signature="e#521#539#0" expanded="true" />
                 <element signature="e#756#788#0" expanded="true" />
@@ -183,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="636" />
     <option name="y" value="-4" />
     <option name="width" value="1853" />
@@ -372,7 +373,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="7" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -589,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="308">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
           <folding>
             <element signature="e#521#539#0" expanded="true" />
             <element signature="e#756#788#0" expanded="true" />
