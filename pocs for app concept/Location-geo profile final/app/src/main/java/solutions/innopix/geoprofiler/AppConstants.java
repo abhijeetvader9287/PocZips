@@ -1,4 +1,4 @@
-package com.coders.location;
+package solutions.innopix.geoprofiler;
 
 public class AppConstants {
 

@@ -1,4 +1,4 @@
-package com.coders.location;
+package solutions.innopix.geoprofiler;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
