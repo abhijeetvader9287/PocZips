@@ -1,7 +1,7 @@
-#Tue Nov 26 15:33:40 IST 2019
-base.0=/home/abhijeet/git/New POCs/android-AppUsageStatistics-master/Application/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+#Tue Dec 31 11:42:37 IST 2019
+base.0=/home/abhijeet/git/POCs/pocs for app concept/screen usage final/Application/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/home/abhijeet/git/New POCs/android-AppUsageStatistics-master/Application/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.1=/home/abhijeet/git/POCs/pocs for app concept/screen usage final/Application/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

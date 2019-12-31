@@ -338,6 +338,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black_overlay
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -688,6 +689,7 @@ id decor_content_parent
 id default_activity_button
 id disableHome
 id divider
+id dummy_button
 id edit_query
 id end
 id end_padder
@@ -697,6 +699,8 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
+id fullscreen_content
+id fullscreen_content_controls
 id group_divider
 id home
 id homeAsUp
@@ -815,6 +819,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_app_usage_statistics
+layout activity_warning
 layout fragment_app_usage_statistics
 layout notification_action
 layout notification_action_tombstone
@@ -876,6 +881,8 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string dummy_button
+string dummy_content
 string explanation_access_to_appusage_is_not_enabled
 string intro_message
 string last_time_used
@@ -883,6 +890,7 @@ string open_app_usage_setting
 string search_menu_title
 string status_bar_notification_info_overflow
 string time_span
+string title_activity_warning
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -1048,6 +1056,8 @@ style Base_Widget_AppCompat_Toolbar_Button_Navigation
 style CardView
 style CardView_Dark
 style CardView_Light
+style FullscreenActionBarStyle
+style FullscreenTheme
 style PackageNameFont
 style Platform_AppCompat
 style Platform_AppCompat_Light
